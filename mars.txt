@@ -1,2 +1,2 @@
-Mars is mostly red which ismy favourite colour.
+Mars is mostly red which is my favourite colour.
 TODO: find out how many moons it has.
